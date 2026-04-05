@@ -14,8 +14,6 @@ Security Awareness
 
 Policy Development
 
-(These are common entry-level cybersecurity job skill categories. We are intentionally aligning the portfolio to job descriptions.)
-
 About Me
 
 I am currently completing structured cybersecurity training focused on real-world tools and analyst-level responsibilities. This portfolio reflects documented hands-on work.
