@@ -14,6 +14,7 @@ Security Awareness
 
 Policy Development
 
+
 About Me
 
 I am currently completing structured cybersecurity training focused on real-world tools and analyst-level responsibilities. This portfolio reflects documented hands-on work.
